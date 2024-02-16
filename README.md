@@ -1,3 +1,4 @@
 # Music with Custom Loop Points In BDSP
 
-See [Wiki](https://github.com/GXTCyrus/BDSP-Looping-Music/wiki) for the full guide on converting audio to .wem and creating custom loop points for BDSP.
+THIS TUTORIAL IS NOW OUTDATED - new tools have been released which allow for track insertion & editing via VS Code
+For more information please ask in Team Luminescent's Discord
